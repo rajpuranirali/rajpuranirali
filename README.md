@@ -22,24 +22,33 @@ I love transforming complex data into smart solutions — from uncovering insigh
 </p>
 
 ---
-
 ## 🧰 Tech Toolbox
 
-| **Domain**           | **Tools & Technologies** |
-|----------------------|--------------------------|
-| 💻 **Languages**      | Python, SQL, R, Bash, HTML, JavaScript |
-| 🧠 **Data Science**   | Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost |
-| 📊 **Visualization**  | Power BI, Tableau, Matplotlib, Seaborn, Plotly, Excel |
-| 🗃️ **Databases**      | PostgreSQL, MySQL, MongoDB, SQL Server |
-| 🏗️ **Data Engineering**| Apache Spark, Airflow, ETL Pipelines |
-| ☁️ **Cloud & DevOps** | AWS (S3, EC2, SageMaker), Docker, GitHub Actions |
-| 🧰 **Productivity**   | Jupyter, Streamlit, Flask, VS Code, Notion |
+<table>
+<tr>
+<td>
 
-<!-- TOOL GIF -->
+| 🧩 **Domain**          | 🛠️ **Tools & Technologies** |
+|------------------------|-----------------------------|
+| 💻 Languages           | Python, SQL, R, Bash, HTML, JavaScript |
+| 🧠 Data Science        | Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost |
+| 📊 Visualization       | Power BI, Tableau, Matplotlib, Seaborn, Plotly, Excel |
+| 🗄️ Databases           | PostgreSQL, MySQL, MongoDB, SQL Server |
+| ⚙️ Data Engineering     | Apache Spark, Airflow, ETL Pipelines |
+| ☁️ Cloud & DevOps       | AWS (S3, EC2, SageMaker), Docker, GitHub Actions |
+| 🧰 Productivity         | Jupyter, Streamlit, Flask, VS Code, Notion |
+
+</td>
+<td align="center" width="40%">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="System animation" />
+</td>
+</tr>
+</table>
+
+<!-- Clean tech-themed GIF below the toolbox -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Data Science animation" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Tech dashboard animation" />
 </p>
-
 ---
 
 ## 📫 Connect With Me
