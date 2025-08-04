@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Nirali Rajpura
 
 🎯 **Data Scientist** | 📊 **Data Analyst** | 🗃️ **Database Administrator**  
 Welcome to my GitHub! I specialize in turning data into insights and deploying data-driven solutions across analytics, machine learning, and database systems.
