@@ -38,15 +38,10 @@ I love transforming complex data into smart solutions — from uncovering insigh
 
 </td>
 <td align="center" width="40%">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="System animation" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Data dashboard animation" />
 </td>
 </tr>
 </table>
-
-<!-- Clean tech-themed GIF below the toolbox -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Tech dashboard animation" />
-</p>
 ---
 
 ## 📫 Connect With Me
