@@ -56,7 +56,7 @@ I love transforming complex data into smart solutions — from uncovering insigh
   </a>
   &nbsp;&nbsp;
   <a href="mailto:rajpuranirali@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rajpuranirali-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-rajpuranirali@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
