@@ -15,19 +15,11 @@
 
 ## 🧠 About Me
 
-Hi! I'm Nirali — a tech enthusiast who loves working with data.
-
-📊 I analyze data to find patterns and create easy-to-understand dashboards.  
-🤖 I use machine learning to make smart predictions and solve real problems.  
-🗄️ I manage databases to keep data organized, fast, and safe.  
-☁️ I also work with AWS (like S3, EC2, SageMaker) to build cloud-based data projects.
-
-I enjoy turning messy data into useful insights that help people and businesses make better decisions.
+I love transforming complex data into smart solutions — from uncovering insights 📊, building predictive models 🤖, to managing fast, reliable databases 🗄️ in the cloud ☁️.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/0Mo1eXWvRxDCM/giphy.gif" width="300" alt="Woman working with data" />
+  <img src="https://media.giphy.com/media/26xBukh1Ian2c58RO/giphy.gif" width="300" alt="Data visualization animation" />
 </p>
-
 
 ---
 
