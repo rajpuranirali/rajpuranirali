@@ -11,7 +11,8 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" alt="Data loading gif" />
 </p>
 
----
+<hr>
+
 ## 🧠 About Me
 
 I love transforming complex data into smart solutions — from uncovering insights 📊, building predictive models 🤖, to managing fast, reliable databases 🗄️ in the cloud ☁️.
@@ -19,7 +20,9 @@ I love transforming complex data into smart solutions — from uncovering insigh
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="320" alt="Data visualization GIF" />
 </p>
----
+
+<hr>
+
 ## 🧰 Tech Toolbox
 
 <table>
@@ -42,7 +45,8 @@ I love transforming complex data into smart solutions — from uncovering insigh
 </td>
 </tr>
 </table>
----
+
+<hr>
 
 ## 📫 Connect With Me
 
@@ -56,12 +60,11 @@ I love transforming complex data into smart solutions — from uncovering insigh
   </a>
 </p>
 
-<!-- CONNECT GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" alt="Handshake" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" alt="Handshake GIF" />
 </p>
 
----
+<hr>
 
 ## 🧭 Philosophy
 
@@ -70,7 +73,6 @@ I love transforming complex data into smart solutions — from uncovering insigh
   — <strong>W. Edwards Deming</strong>
 </p>
 
-<!-- OUTRO GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" alt="Goodbye gif" />
 </p>
