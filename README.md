@@ -15,17 +15,15 @@
 
 ## 🧠 About Me
 
-I’m a data-driven professional with a strong foundation in analytics, machine learning, and database management — passionate about turning raw data into reliable, actionable intelligence.
+I'm a results-driven data professional who blends analytics 📊, machine learning 🤖, and database engineering 🗄️ to deliver real-world impact.
 
-📊 As a **Data Analyst**, I uncover trends, build dashboards, and deliver insights that drive strategic decisions using tools like Power BI, Tableau, SQL, and Excel.
+I work across the data lifecycle — from insights and models to infrastructure — and build cloud-ready solutions using AWS ☁️ (S3, EC2, SageMaker).  
+Efficient. Scalable. Insightful.
 
-🤖 As a **Data Scientist**, I design end-to-end machine learning solutions — from data wrangling and feature engineering to model deployment — using libraries such as Scikit-learn, TensorFlow, and PyTorch.
-
-🗄️ As a **Database Administrator**, I manage, optimize, and secure both relational and NoSQL databases, ensuring high performance, integrity, and scalability for data-intensive applications.
-
-I bridge business needs with technical solutions — combining analytical thinking, coding expertise, and database architecture to build systems that are insightful, efficient, and production-ready.
-
-Currently expanding my skills in **deep learning**, **big data processing (Spark)**, and **cloud-native data workflows**.
+<!-- Woman in data tech GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/w5CwZTzKFWGxvAMYvP/giphy.gif" width="260" alt="Data Woman Working GIF" />
+</p>
 
 
 ---
