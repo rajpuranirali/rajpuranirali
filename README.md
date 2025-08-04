@@ -57,5 +57,5 @@
 ---
 
 ### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/nirali-rajpura/)
 [![Email](https://img.shields.io/badge/Gmail-rajpuranirali@gmail.com-red?logo=gmail&logoColor=white)](mailto:rajpuranirali@gmail.com)
