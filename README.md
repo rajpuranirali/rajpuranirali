@@ -15,11 +15,18 @@
 
 ## 🧠 About Me
 
-🎯 I specialize in turning complex data into meaningful insights, using a combination of statistical analysis, machine learning, and data engineering techniques.
+I’m a data-driven professional with a strong foundation in analytics, machine learning, and database management — passionate about turning raw data into reliable, actionable intelligence.
 
-⚙️ Whether it's building predictive models, designing robust dashboards, or optimizing database systems — I bring data to life with clarity and purpose.
+📊 As a **Data Analyst**, I uncover trends, build dashboards, and deliver insights that drive strategic decisions using tools like Power BI, Tableau, SQL, and Excel.
 
-🌱 Currently exploring advanced deep learning, distributed computing (Spark), and real-time data pipeline architectures.
+🤖 As a **Data Scientist**, I design end-to-end machine learning solutions — from data wrangling and feature engineering to model deployment — using libraries such as Scikit-learn, TensorFlow, and PyTorch.
+
+🗄️ As a **Database Administrator**, I manage, optimize, and secure both relational and NoSQL databases, ensuring high performance, integrity, and scalability for data-intensive applications.
+
+I bridge business needs with technical solutions — combining analytical thinking, coding expertise, and database architecture to build systems that are insightful, efficient, and production-ready.
+
+Currently expanding my skills in **deep learning**, **big data processing (Spark)**, and **cloud-native data workflows**.
+
 
 ---
 
