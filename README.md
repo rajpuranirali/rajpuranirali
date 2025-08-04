@@ -51,36 +51,13 @@ Welcome to my GitHub! I specialize in turning data into insights and deploying d
 **Others:**  
 `Jupyter Notebook` `VS Code` `Streamlit` `Flask` `Notion`
 
----
-
-## 🚀 Featured Projects
-
-- 🔍 [Customer Churn Prediction](https://github.com/your-username/customer-churn-prediction)  
-  Logistic Regression, Random Forests, SHAP explanations, Streamlit app
-
-- 📊 [Power BI Sales Dashboard](https://github.com/your-username/sales-dashboard-powerbi)  
-  Interactive dashboard for monthly/quarterly KPIs and profitability insights
-
-- 🧠 [NLP Text Classifier](https://github.com/your-username/nlp-text-classifier)  
-  Classify text using TF-IDF, Naive Bayes, and fine-tuned BERT
-
-- 🗃️ [SQL Performance Tuning Examples](https://github.com/your-username/sql-performance)  
-  Indexing, execution plans, stored procedures, and optimized queries
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)  
-📧 your.email@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirali-rajpura/)  
+📧 rajpuranirali@gmail.com
 
 ---
 
