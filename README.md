@@ -12,15 +12,13 @@
 </p>
 
 ---
-
 ## 🧠 About Me
 
 I love transforming complex data into smart solutions — from uncovering insights 📊, building predictive models 🤖, to managing fast, reliable databases 🗄️ in the cloud ☁️.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="320" alt="Data visualization GIF" />
+  <img src="https://media.giphy.com/media/26xBukh1Ian2c58RO/giphy.gif" width="300" alt="Data visualization animation" />
 </p>
-
 ---
 ## 🧰 Tech Toolbox
 
